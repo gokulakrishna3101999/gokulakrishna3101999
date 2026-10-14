@@ -37,7 +37,7 @@ Also: Spring AI · Spring Data JPA · JUnit · Struts · RAG · MCP · Embedding
 
 ## Featured projects
 
-### [SynapseMCP](https://github.com/gokulakrishna3101999/SynapseMCP)
+### [SynapseMCP](https://github.com/gokulakrishna3101999/SynapseMCP) · [Live app](https://synapse-mcp-frontend.vercel.app/)
 An enterprise-grade, multi-tenant RAG platform with an integrated MCP server. It bridges proprietary documents with LLMs while keeping tenants strictly isolated, ingestion costs predictable, and answers well grounded. Users get a React 19 SPA for conversational RAG, and external assistants such as Claude Desktop and Cursor can query their isolated knowledge base over MCP.
 
 - **Strict multi-tenancy:** one unified knowledge base per tenant, isolated with PostgreSQL Row-Level Security and JPA discriminator columns.

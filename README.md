@@ -1,6 +1,6 @@
 # Gokulakrishna K 👋
 
-I'm a senior backend software engineer from India 🇮🇳, building distributed, fault-tolerant microservices in **Java and Spring Boot**, and extending that rigor into applied AI infrastructure (RAG and MCP).
+I am a senior backend software engineer from India 🇮🇳, building distributed, fault-tolerant microservices in **Java and Spring Boot**, and extending that rigor into applied AI infrastructure (RAG and MCP).
 
 ## About me
 
